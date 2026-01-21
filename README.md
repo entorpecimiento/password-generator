@@ -26,9 +26,8 @@ The application processes user requirements to build reliable security keys usin
 ---
 
 ## 📂 Project Structure
-- /
-  - password-generator.py  # Script logic
-  - README.md              # Documentation
+- password-generator.py  # Main script with generation logic
+- README.md              # Project documentation and usage guide
 
 ---
 
